@@ -1,6 +1,6 @@
 {
-  "name": "ngx-stepper",
-  "version": "1.1.2",
+  "name": "@adeteam/ngx-stepper",
+  "version": "1.1.7",
   "description": "Angular Steppers directive for Angular Material",
   "keywords": [
     "angular2",
@@ -10,14 +10,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KeitaElric/ngx-stepper.git"
+    "url": "git+https://github.com/adeteam/ngx-stepper.git"
   },
   "author": "Thong Huynh <hvqthong.pns@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KeitaElric/ngx-stepper/issues"
+    "url": "https://github.com/adeteam/ngx-stepper/issues"
   },
-  "homepage": "https://github.com/KeitaElric/ngx-stepper#readme",
+  "homepage": "https://github.com/adeteam/ngx-stepper#readme",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "typings": "./dist/index.d.ts",
