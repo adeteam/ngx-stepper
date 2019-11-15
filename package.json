@@ -1,6 +1,6 @@
 {
   "name": "@adeteam/ngx-stepper",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "description": "Angular Steppers directive for Angular Material",
   "keywords": [
     "angular2",
@@ -31,7 +31,9 @@
     "e2e": "protractor",
     "build:aot": "rimraf dist && ngc -p src/tsconfig-aot.json"
   },
-  "dependencies": {},
+  "dependencies": {
+    "ngx-stepper": "^1.1.6"
+  },
   "devDependencies": {
     "@angular/animations": "~4.4.4",
     "@angular/cdk": "^2.0.0-beta.12",
